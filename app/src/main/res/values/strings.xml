@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExampleUnitTests</string>
+    <string name="type_operand_one_hint">hint1</string>
+    <string name="type_operand_two_hint">hint2</string>
+    <string name="add_operation_text">Addition</string>
+    <string name="sub_operation_text">Subtraction</string>
+    <string name="div_operation_text">Division</string>
+    <string name="mul_operation_text">Multiply</string>
+    <string name="computationError">Computation error</string>
+</resources>
